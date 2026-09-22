@@ -1,5 +1,5 @@
 # Project Yurisaki
-Yurisaki is a bot for rhythm games, built with heart <font color="red">❤</font>.
+Yurisaki is a bot for rhythm games, built with heart<font color="red">❤</font>.
 
 This organization holds open source projects of Yurisaki. These projects are parts of Yurisaki Services.
 ## Repositories
