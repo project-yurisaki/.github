@@ -7,5 +7,6 @@ This organization holds open source projects of Yurisaki. These projects are par
 * [ArcaeaChartRenderYurisaki](https://github.com/project-yurisaki/ArcaeaChartRenderYurisaki): An enhanced chart preview generator for Arcaea, forked from [ArcaeaChartRender](https://github.com/Arcaea-Infinity/ArcaeaChartRender)
 * [chainbeet-chart-renderer](https://github.com/project-yurisaki/chainbeet-chart-renderer): Chart preview generator for ChainBeeT
 * [infalsus-chart-renderer](https://github.com/project-yurisaki/infalsus-chart-renderer): Chart preview generator for In Falsus
+* [ournotes-chart-renderer](https://github.com/project-yurisaki/ournotes-chart-renderer): Chart preview generator for BanG Dream! Our Notes
 ### Resources Obtaining
 * [chainbeet-updater](https://github.com/project-yurisaki/chainbeet-updater): Get ChainBeeT game database automatically
